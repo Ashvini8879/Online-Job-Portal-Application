@@ -48,6 +48,11 @@ A web-based job portal developed using **ASP.NET** and **SQL Server**, designed 
 ---
 
 
+## 📷 Screenshots _
+Screenshots file is uploaded with name "Screenshot_for_job"_.
+
+
+
 ## 📌 Problem Addressed
 
 Traditional hiring is time-consuming, scattered, and lacks intelligent automation. This portal:
