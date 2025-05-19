@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 
     <style>
-        /* Testimonial Section Styling */
+     
 .testimonial-area {
     padding: 60px 0;
     background-color: #f9f9f9;
