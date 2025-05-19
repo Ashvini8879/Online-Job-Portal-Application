@@ -1,8 +1,6 @@
 # Online-Job-Portal-Application
 
 
-# 🧑‍💼 Online Job Portal Application
-
 A web-based job portal developed using **ASP.NET** and **SQL Server**, designed to streamline the job search and recruitment process. The platform offers dedicated interfaces for job seekers, employers, and administrators, featuring smart job filtering, resume upload, and an automated resume keyword matching system.
 
 ---
@@ -15,6 +13,7 @@ A web-based job portal developed using **ASP.NET** and **SQL Server**, designed 
 
 ---
 
+
 ## 🎯 Objectives
 
 - Provide a centralized platform for job searching and recruitment.
@@ -23,6 +22,7 @@ A web-based job portal developed using **ASP.NET** and **SQL Server**, designed 
 - Offer real-time data insights and application tracking via an admin dashboard.
 
 ---
+
 
 ## 🚀 Features
 
@@ -47,6 +47,7 @@ A web-based job portal developed using **ASP.NET** and **SQL Server**, designed 
 
 ---
 
+
 ## 📌 Problem Addressed
 
 Traditional hiring is time-consuming, scattered, and lacks intelligent automation. This portal:
@@ -56,6 +57,7 @@ Traditional hiring is time-consuming, scattered, and lacks intelligent automatio
 - Reduces manual overhead and hiring time
 
 ---
+
 
 ## 🛠️ How It Works
 
@@ -70,12 +72,13 @@ Traditional hiring is time-consuming, scattered, and lacks intelligent automatio
 
 ---
 
+
 ## 🖥️ Installation & Setup
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ashvini8879/online-job-portal-application.git
+   git clone https://github.com/Ashvini8879/Online-Job-Portal-Application.git
    ```
 
 2. Open the solution file in **Visual Studio**.
@@ -87,6 +90,7 @@ Traditional hiring is time-consuming, scattered, and lacks intelligent automatio
 5. Run the application via IIS Express or your preferred local server.
 
 ---
+
 
 
 ## 📈 Future Enhancements
