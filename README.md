@@ -5,6 +5,7 @@ A web-based job portal developed using **ASP.NET** and **SQL Server**, designed 
 
 ---
 
+
 ## 🔧 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
@@ -12,6 +13,7 @@ A web-based job portal developed using **ASP.NET** and **SQL Server**, designed 
 - **Database**: SQL Server (managed using SQL Server Management Studio)
 
 ---
+
 
 
 ## 🎯 Objectives
@@ -22,6 +24,7 @@ A web-based job portal developed using **ASP.NET** and **SQL Server**, designed 
 - Offer real-time data insights and application tracking via an admin dashboard.
 
 ---
+
 
 
 ## 🚀 Features
@@ -48,8 +51,11 @@ A web-based job portal developed using **ASP.NET** and **SQL Server**, designed 
 ---
 
 
+
+
 ## 📷 Screenshots _
-Screenshots file is uploaded with name "Screenshot_for_job"_.
+Screenshots file is uploaded with name "Screenshot_for_job.pdf".
+
 
 
 
@@ -64,6 +70,7 @@ Traditional hiring is time-consuming, scattered, and lacks intelligent automatio
 ---
 
 
+
 ## 🛠️ How It Works
 
 1. **Frontend** handles all user interactions, such as browsing jobs or submitting applications.
@@ -76,6 +83,7 @@ Traditional hiring is time-consuming, scattered, and lacks intelligent automatio
 4. **Resume Matching Module** extracts keywords from resumes and compares them with job descriptions to compute a relevance score.
 
 ---
+
 
 
 ## 🖥️ Installation & Setup
@@ -98,6 +106,7 @@ Traditional hiring is time-consuming, scattered, and lacks intelligent automatio
 
 
 
+
 ## 📈 Future Enhancements
 
 * Add email notifications for applicants and employers.
@@ -106,6 +115,7 @@ Traditional hiring is time-consuming, scattered, and lacks intelligent automatio
 * Deploy live using Azure or Render.
 
 ---
+
 
 
 ## 🙌 Acknowledgements
