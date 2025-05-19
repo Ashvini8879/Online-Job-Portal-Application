@@ -53,9 +53,10 @@ A web-based job portal developed using **ASP.NET** and **SQL Server**, designed 
 
 
 
-## 📷 Screenshots _
+## 📷 Screenshots:
 Screenshots file is uploaded with name "Screenshot_for_job.pdf".
 
+---
 
 
 
